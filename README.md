@@ -282,3 +282,5 @@ The source shape and date coverage match the processed single-store slice of the
 - HBase remains the optional NoSQL backend from Review2; Review3 did not alter its tables.
 - The default reference run uses Pandas, while `--engine spark` executes the real local Spark path. No distributed Spark speedup is claimed without a multi-node measurement.
 - Inventory recommendations are demand-based because inventory levels, lead times, costs, and service targets were not supplied.
+#   R e t a i l P u l s e - D i s t r i b u t e d - R e t a i l - A n a l y t i c s - D e m a n d - F o r e c a s t i n g  
+ 
